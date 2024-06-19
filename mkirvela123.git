@@ -1,0 +1,2 @@
+kontroli = input("rame ").capitalize() # ask user for a small conversation and if he started yelling print different story like talking calm (just a small story)
+print(kontroli) # print capitalized text
